@@ -1,0 +1,54 @@
+# Operating system files
+/.DS_Store
+/Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.tmp*
+
+# Build artifacts
+/build/
+/dist/
+
+# IDE-specific files
+/.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.ncb*
+*.sdf*
+*.suo*
+*.pdb*
+*.user
+*.sln
+*.aps*
+*.pch*
+*.obj*
+*.ilk*
+*.ipch*
+*.tlog*
+*.slo*
+*.booproj*
+*.sln.DotSettings*
+*.userprefs*
+*.csproj.user*
+*.vspscc*
+*.scc*
+
+# Node.js and npm
+/node_modules/
+package-lock.json
+yarn.lock
+npm-debug.log*
+
+# Visual Studio Code
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+
+# Other
+.env*

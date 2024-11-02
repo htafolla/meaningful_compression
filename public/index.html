@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meaningful Compression</title>
+    <style>
+        /* Add your CSS styles here */
+        .meaningful-compression {
+            /* Basic styling for the container */
+            font-family: sans-serif;
+            line-height: 1.6;
+        }
+        .separator {
+            /* Style for the ellipsis separators */
+            margin: 0 0.2em;
+            font-weight: bold;
+        }
+        /* Add more styles for bold, constructor, recursion, etc. */
+    </style>
+</head>
+<body>
+    <div id="root"></div> 
+    <% if (process.env.NODE_ENV === 'production') { %>
+      <script src="dist/bundle.js"></script> 
+    <% } else { %>
+      <script src="bundle.js"></script> 
+    <% } %>i
+</body>
+</html>

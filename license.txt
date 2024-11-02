@@ -1,0 +1,22 @@
+NOT ALL THOUGHTS ARE MINE...
+👇NOT ALL THOUGHTS ARE MINE, JOTS, RAMBLINGS, JUST MADNESS👇
+NOT FINANCIAL ADVICE, DYOR, NOT COMMANDS OR ORDERS, NO PROMISE OF PAYMENT. NO AGREEMENT, CONTRACT, OR AFFILIATION IMPLIED. NOT A SLIGHT - NOT TRYIN TO BE RUDE - OR OFFENSIVE, RESERVE THE RIGHT TO REDACT, UPDATE or CHANGE WITHOUT NOTICE.
+This is a living statement updated to provide protection to individuals and communities. We are a World Wide Community experimenting with decentralization and sustainability. We may not know what we are doing at times. We are establishing governance and moving decision making onchain for transparency. We have a focus on Humanity and our members are verified human as bots and anons have been shown to manipulate our core principles and guidelines. Every contributor is rewarded for their meaningful contribution when funding is available. We believe that contributions should not be done with intent of monetary payment, but instead as a meaningful contribution for possible rewards.
+We may at times opensource our models, designs, and architectures, but may also reserve the right to test them in exclusivity for a period of time.
+NOT ALL THOUGHTS ARE MINE...
+None of the authors, contributors, administrators, or anyone else connected with Communities using this license, in any way whatsoever, responsible for your use of the information contained in or linked from these web pages.
+
+No personal liability, association, or responsibility for any errors or omissions, or for the results obtained from the use of this information. All information in this site is provided "as is", with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of   
+ this information.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
