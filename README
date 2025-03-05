@@ -41,6 +41,14 @@ Communicative Verbalization:  The careful choice of words, emojis and phrases to
 ... ⚬ := sub bullet point (list item, point) / option (choice, alternative) ...
 ... ^---muzic---^ := music (audio, video) / embed ...
 ... ~ := source (anecdote, meaning) / citation ...
+... .... := greater than ... (magnitude more, multi-udication)
+... .command. := ai command mode
+... .comandd. := ai command mode w/ multiplicity
+... .process. := ai run code
+... .eval. := ai eval criteria/outcomes
+... .interpret. := ai interpet cascading effects
+... .digest. := ai contemplate w/ data
+... .execute. := ai execute as code
 
 # emoji lexicon ...  
 
