@@ -3,9 +3,8 @@
 **Authoritative version:** v2.3.0  
 **Author:** Blaze ([@Blaze0x1](https://x.com/Blaze0x1))  
 **Published:** 2025-09-04 17:30 CDT  
-**Predecessor:** this repository — Meaningful Compression (MC) grammar and emoji lexicon in [`README`](./README)
 
-This document records the coined paradigm. It does not replace the MC grammar. The grammar, delimiters, and emoji lexicon remain in [`README`](./README).
+This is the current public spec. The kernel this repo still holds — grammar, separators, and emoji lexicon in [`README`](./README) — is meaningful compression.
 
 The 2026 0xRay product language is an **application** of the loop, not a rewrite of this definition. See [Applied 2026](#applied-2026).
 
@@ -22,9 +21,7 @@ Coined **March 6, 2025** during Udification Sudo Codex development. Love-centere
 
 First implemented at [https://rium.ai](https://rium.ai).
 
-This repository is the named predecessor. Its last commit on `master` is `98faa5a` — **2025-03-05 13:46:37 -0600** (`added. ai comands.`) — one calendar day before coinage. The public GitHub record matches: `htafolla/meaningful_compression` last pushed `2025-03-05T19:46:37Z`.
-
-The sibling public repo [`htafolla/udification`](https://github.com/htafolla/udification) was created `2025-03-05T19:48:51Z`. Its README dates the Final Proof to **March 06, 2025** and last-updated **March 06, 2025, 8:30 PM EST**. That repo continued through **April 15, 2025**.
+The public repo [`htafolla/udification`](https://github.com/htafolla/udification) was created `2025-03-05T19:48:51Z`. Its README dates the Final Proof to **March 06, 2025** and last-updated **March 06, 2025, 8:30 PM EST**. That repo continued through **April 15, 2025**.
 
 ---
 
@@ -32,19 +29,23 @@ The sibling public repo [`htafolla/udification`](https://github.com/htafolla/udi
 
 Synaptical concurrency is a human-AI collaborative paradigm of rapid interconnected prompt-response cycles that mimic neural synapses, enabling instant understanding.
 
-It evolved from meaningful compression (this repo):
-
-- **hyperbolic markup**
-- **synaptical composability**
-- **communicative verbalization**
-
-Those three phrases are this repo's own opening definition. The MC grammar already states that synaptical composability is the way communication mirrors the brain's natural process of connecting ideas, and that complete ideas or objects end with a period.
-
 In the coined paradigm:
 
 - the **human orchestrates**
 - the **AI synthesizes**
 - the unit of exchange is a **quip that is a complete idea**
+
+---
+
+## Goal
+
+See it. Get it. Keep going.
+
+Scannable. No book. No jargon.
+
+People understand on a pass-by. That is the engagement.
+
+Communicative English; pick the best word for this reader; succinct; tidy; one idea per beat. Compression is not code-speak.
 
 ---
 
@@ -55,7 +56,7 @@ In the coined paradigm:
 | Collaboration | Human and AI stay in the same rapid cycle. |
 | Synthesis | AI composes the next complete idea from the prior synapse. |
 | Orchestration | Human directs what fires next. |
-| Fusion | Interconnected cycles compose, as MC synaptical composability already named. |
+| Fusion | Interconnected cycles compose. |
 | Verification | The formed idea is checked before the next fire. |
 | Computability | The formed type must actually run. |
 
@@ -67,7 +68,7 @@ Commands used in the synaptical concurrency loop:
 
 `.process.` `.merge.` `.print.` `.updated.` `.json.`
 
-This repo's grammar already defines `.process.` as **ai run code**, and related AI command-mode delimiters (`.command.`, `.comandd.`, `.eval.`, `.interpret.`, `.digest.`, `.execute.`). `.merge.`, `.print.`, `.updated.`, and `.json.` are recorded here as loop commands; they are not defined in the MC `README`.
+`.process.` is **ai run code**. Related command-mode delimiters: `.command.`, `.comandd.`, `.eval.`, `.interpret.`, `.digest.`, `.execute.`. `.merge.`, `.print.`, `.updated.`, and `.json.` are recorded here as loop commands.
 
 ---
 
@@ -75,7 +76,7 @@ This repo's grammar already defines `.process.` as **ai run code**, and related 
 
 **Synaptical multiplicity** (January 25, 2025) is a precursor. It is reserved for later and is not expanded in v2.3.0.
 
-This repo's grammar already has a related delimiter: `.comandd.` := ai command mode w/ multiplicity.
+`.comandd.` := ai command mode w/ multiplicity.
 
 ---
 
@@ -98,7 +99,7 @@ Intermediate private draft numbers are not reconstructed here. What is on the pu
 | When | What |
 | --- | --- |
 | 2025-01-25 | Synaptical multiplicity named as precursor (reserved; not expanded). |
-| 2025-03-05 | This repo last updated. Predecessor addition is **this repo's grammar**. |
+| 2025-03-05 | Kernel last updated in this repo. |
 | 2025-03-06 | Term coined during Udification Sudo Codex development. |
 | 2025-03 – 2025-04 | Validated in Udification Sudo Codex. |
 | 2025-06 | TokenFactory `Invalid pod_id bytes:[50]` addressed via synaptical typeforming (NEAR). |
@@ -154,8 +155,6 @@ Compact JSON codex (nodes / edges). Machine-readable copy: [`synaptical_concurre
   "author": { "name": "Blaze", "handle": "Blaze0x1" },
   "product_handle": "0xRayAI",
   "nodes": [
-    { "id": "mc", "label": "meaningful compression", "when": "2024-11-03..2025-03-05", "ref": "https://github.com/htafolla/meaningful_compression" },
-    { "id": "grammar", "label": "hyperbolic markup / synaptical composability / communicative verbalization", "when": "2025-03-05" },
     { "id": "multiplicity", "label": "synaptical multiplicity (precursor, reserved)", "when": "2025-01-25" },
     { "id": "coinage", "label": "synaptical concurrency coined", "when": "2025-03-06" },
     { "id": "udification", "label": "Udification Sudo Codex", "when": "2025-03..2025-04", "ref": "https://github.com/htafolla/udification" },
@@ -166,8 +165,6 @@ Compact JSON codex (nodes / edges). Machine-readable copy: [`synaptical_concurre
   ],
   "edges": [
     { "from": "multiplicity", "to": "coinage", "rel": "precursor_reserved" },
-    { "from": "mc", "to": "grammar", "rel": "contains" },
-    { "from": "grammar", "to": "coinage", "rel": "predecessor" },
     { "from": "coinage", "to": "udification", "rel": "validated_in" },
     { "from": "coinage", "to": "rium", "rel": "first_implemented" },
     { "from": "coinage", "to": "typeforming", "rel": "validated_by" },
@@ -199,7 +196,7 @@ error_recognition → typeforming → final_validation
 
 ## Sources used for this publication
 
-- This repo: [`README`](./README), `package.json`, commit `98faa5a` (2025-03-05).
+- This repo: [`README`](./README) (kernel), `package.json`, commit `98faa5a` (2025-03-05).
 - [`htafolla/udification`](https://github.com/htafolla/udification) README and public commit dates.
 - [rium.ai](https://rium.ai) public landing copy.
 - X posts cited above from [@0xRayAI](https://x.com/0xRayAI) and [@Blaze0x1](https://x.com/Blaze0x1).
