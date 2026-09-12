@@ -37,6 +37,18 @@ In the coined paradigm:
 
 ---
 
+## Goal
+
+See it. Get it. Keep going.
+
+Scannable. No book. No jargon.
+
+People understand on a pass-by. That is the engagement.
+
+Communicative English; pick the best word for this reader; succinct; tidy; one idea per beat. Compression is not code-speak.
+
+---
+
 ## Components
 
 | Component | Role in the loop |
