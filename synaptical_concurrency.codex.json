@@ -5,8 +5,6 @@
   "author": { "name": "Blaze", "handle": "Blaze0x1" },
   "product_handle": "0xRayAI",
   "nodes": [
-    { "id": "mc", "label": "meaningful compression", "when": "2024-11-03..2025-03-05", "ref": "https://github.com/htafolla/meaningful_compression" },
-    { "id": "grammar", "label": "hyperbolic markup / synaptical composability / communicative verbalization", "when": "2025-03-05" },
     { "id": "multiplicity", "label": "synaptical multiplicity (precursor, reserved)", "when": "2025-01-25" },
     { "id": "coinage", "label": "synaptical concurrency coined", "when": "2025-03-06" },
     { "id": "udification", "label": "Udification Sudo Codex", "when": "2025-03..2025-04", "ref": "https://github.com/htafolla/udification" },
@@ -17,8 +15,6 @@
   ],
   "edges": [
     { "from": "multiplicity", "to": "coinage", "rel": "precursor_reserved" },
-    { "from": "mc", "to": "grammar", "rel": "contains" },
-    { "from": "grammar", "to": "coinage", "rel": "predecessor" },
     { "from": "coinage", "to": "udification", "rel": "validated_in" },
     { "from": "coinage", "to": "rium", "rel": "first_implemented" },
     { "from": "coinage", "to": "typeforming", "rel": "validated_by" },
